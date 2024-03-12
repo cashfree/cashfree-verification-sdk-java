@@ -52,7 +52,7 @@ import com.cashfree.JSON;
  * It displays the details of the director of the company.
  */
 @Schema(description = "It displays the details of the director of the company.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-11T13:08:13.353528Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
 public class CinResponseSchemaDirectorDetailsInner {
   public static final String SERIALIZED_NAME_DOB = "dob";
   @SerializedName(SERIALIZED_NAME_DOB)

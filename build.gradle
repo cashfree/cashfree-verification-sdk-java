@@ -6,7 +6,7 @@ apply plugin: 'maven-publish'
 apply plugin: 'signing'
 
 group = 'com.cashfree.verification.java'
-version = '1.0.1'
+version = '1.0.3'
 
 buildscript {
     repositories {
@@ -116,7 +116,7 @@ if(hasProperty('target') && target == 'android') {
 
                 groupId 'com.cashfree.verification.java'
                 artifactId 'cashfree_verification'
-                version '1.0.1'
+                version '1.0.3'
 
                 from components.java
 
@@ -127,7 +127,7 @@ if(hasProperty('target') && target == 'android') {
                 // Mostly self-explanatory metadata
                 pom {
                     name = 'cashfree_verification'
-                    description = 'Cashfree Payments, PG Java SDK'
+                    description = 'Cashfree Payments, Verifications Java SDK'
                     url = 'https://github.com/cashfree/cashfree-verification-sdk-java'
                     licenses {
                         license {
