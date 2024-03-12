@@ -52,7 +52,7 @@ import com.cashfree.JSON;
  * Success response for Liveliness Check API
  */
 @Schema(description = "Success response for Liveliness Check API")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-11T13:08:13.353528Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
 public class LivelinessResponseSchema {
   public static final String SERIALIZED_NAME_REFERENCE_ID = "reference_id";
   @SerializedName(SERIALIZED_NAME_REFERENCE_ID)

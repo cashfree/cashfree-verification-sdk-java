@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Success response for Get DigiLocker Document API
  */
 @Schema(description = "Success response for Get DigiLocker Document API")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-11T13:08:13.353528Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
 public class DigiLockerVerificationGetDocumentResponseSchema {
   public static final String SERIALIZED_NAME_CARE_OF = "care_of";
   @SerializedName(SERIALIZED_NAME_CARE_OF)

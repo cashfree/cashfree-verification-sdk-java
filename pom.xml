@@ -5,7 +5,7 @@
     <artifactId>cashfree_verification</artifactId>
     <packaging>jar</packaging>
     <name>cashfree_verification</name>
-    <version>1.0.1</version>
+    <version>1.0.3</version>
     <url>https://github.com/cashfree/cashfree-verification-sdk-java</url>
     <description>Java Framework for Cashfree Verification.</description>
     <scm>

@@ -55,7 +55,7 @@ import com.cashfree.JSON;
  * Response for Verify Bulk PAN API
  */
 @Schema(description = "Response for Verify Bulk PAN API")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-11T13:08:13.353528Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
 public class GetPanBulkResponseSchema {
   public static final String SERIALIZED_NAME_BULK_VERIFICATION_ID = "bulk_verification_id";
   @SerializedName(SERIALIZED_NAME_BULK_VERIFICATION_ID)
