@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Find the request parameters to mask aadhaar information
  */
 @Schema(description = "Find the request parameters to mask aadhaar information")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-08T05:03:36.102379Z[Etc/UTC]")
 public class Aadhaarmaskingrequestschema {
   public static final String SERIALIZED_NAME_IMAGE = "image";
   @SerializedName(SERIALIZED_NAME_IMAGE)
@@ -77,7 +77,7 @@ public class Aadhaarmaskingrequestschema {
    * @return image
   **/
   @javax.annotation.Nonnull
-  @Schema(example = "[B@4b9d2cee", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the image file of the aadhaar card that needs masking. Accepted formats - short, long, and PVC. Allowed file type - JPEG/JPG/PNG. The maximum file size should be 10 MB.")
+  @Schema(example = "[B@ef220e4", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the image file of the aadhaar card that needs masking. Accepted formats - short, long, and PVC. Allowed file type - JPEG/JPG/PNG. The maximum file size should be 10 MB.")
   public File getImage() {
     return image;
   }

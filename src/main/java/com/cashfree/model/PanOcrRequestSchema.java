@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Find the request parameters to verify PAN via OCR
  */
 @Schema(description = "Find the request parameters to verify PAN via OCR")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-08T05:03:36.102379Z[Etc/UTC]")
 public class PanOcrRequestSchema {
   public static final String SERIALIZED_NAME_VERIFICATION_ID = "verification_id";
   @SerializedName(SERIALIZED_NAME_VERIFICATION_ID)
@@ -99,7 +99,7 @@ public class PanOcrRequestSchema {
    * @return frontImage
   **/
   @javax.annotation.Nonnull
-  @Schema(example = "[B@58690f5e", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned copy of the PAN card. Allowed file type - JPEG/JPG/PNG.")
+  @Schema(example = "[B@7c45191e", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned copy of the PAN card. Allowed file type - JPEG/JPG/PNG.")
   public File getFrontImage() {
     return frontImage;
   }

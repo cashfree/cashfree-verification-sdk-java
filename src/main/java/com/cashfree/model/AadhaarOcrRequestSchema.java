@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Request body schema for Aadhaar Verification via OCR.
  */
 @Schema(description = "Request body schema for Aadhaar Verification via OCR.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-08T05:03:36.102379Z[Etc/UTC]")
 public class AadhaarOcrRequestSchema {
   public static final String SERIALIZED_NAME_VERIFICATION_ID = "verification_id";
   @SerializedName(SERIALIZED_NAME_VERIFICATION_ID)
@@ -103,7 +103,7 @@ public class AadhaarOcrRequestSchema {
    * @return backImage
   **/
   @javax.annotation.Nullable
-  @Schema(example = "[B@4b62f1ba", requiredMode = Schema.RequiredMode.NOT_REQUIRED, description = "It is the scanned image of the back of the aadhaar card. Allowed file type - JPEG/JPG/PNG. The max file size of both the files is 10MB.")
+  @Schema(example = "[B@738ed8f5", requiredMode = Schema.RequiredMode.NOT_REQUIRED, description = "It is the scanned image of the back of the aadhaar card. Allowed file type - JPEG/JPG/PNG. The max file size of both the files is 10MB.")
   public File getBackImage() {
     return backImage;
   }
@@ -125,7 +125,7 @@ public class AadhaarOcrRequestSchema {
    * @return frontImage
   **/
   @javax.annotation.Nonnull
-  @Schema(example = "[B@39dce2df", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned image of the front of the aadhaar card. Allowed file type - JPEG/JPG/PNG. The max file size of both the files is 10MB.")
+  @Schema(example = "[B@1cfb7450", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned image of the front of the aadhaar card. Allowed file type - JPEG/JPG/PNG. The max file size of both the files is 10MB.")
   public File getFrontImage() {
     return frontImage;
   }
