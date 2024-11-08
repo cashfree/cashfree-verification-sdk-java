@@ -52,7 +52,7 @@ import com.cashfree.JSON;
  * Find the request parameters to fetch the list of GSTIN associated with PAN
  */
 @Schema(description = "Find the request parameters to fetch the list of GSTIN associated with PAN")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-08T05:03:36.102379Z[Etc/UTC]")
 public class PanToGstinRequestSchema {
   public static final String SERIALIZED_NAME_PAN = "pan";
   @SerializedName(SERIALIZED_NAME_PAN)

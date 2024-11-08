@@ -177,17 +177,12 @@ public class JSON {
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.ReverseGeocodingResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.SplitAddress.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.SplitAddressSchema.CustomTypeAdapterFactory());
-        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.UpiAdvanceRequestSchema.CustomTypeAdapterFactory());
-        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.UpiAdvanceResponseSchema.CustomTypeAdapterFactory());
-        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.UpiMobileRequestSchema.CustomTypeAdapterFactory());
-        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.UpiMobileResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.V2ErrorResponse404SchemaIpVerification.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.ValidityDetails.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.VehicleRcRequestSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.VehicleRcResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.VoterIdRequestSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.VoterIdResponseSchema.CustomTypeAdapterFactory());
-        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.VpaFromPhone500Schema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.XClientIdMissing.CustomTypeAdapterFactory());
         gson = gsonBuilder.create();
     }

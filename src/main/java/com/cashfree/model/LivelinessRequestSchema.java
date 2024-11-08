@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Find the request parameters to check the liveliness in an image
  */
 @Schema(description = "Find the request parameters to check the liveliness in an image")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-08T05:03:36.102379Z[Etc/UTC]")
 public class LivelinessRequestSchema {
   public static final String SERIALIZED_NAME_VERIFICATION_ID = "verification_id";
   @SerializedName(SERIALIZED_NAME_VERIFICATION_ID)
@@ -103,7 +103,7 @@ public class LivelinessRequestSchema {
    * @return image
   **/
   @javax.annotation.Nonnull
-  @Schema(example = "[B@57bfca3a", requiredMode = Schema.RequiredMode.REQUIRED, description = "Upload the image of the individual to verify the liveliness of the image.")
+  @Schema(example = "[B@5f4f6f89", requiredMode = Schema.RequiredMode.REQUIRED, description = "Upload the image of the individual to verify the liveliness of the image.")
   public File getImage() {
     return image;
   }

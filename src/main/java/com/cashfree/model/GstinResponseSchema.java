@@ -55,7 +55,7 @@ import com.cashfree.JSON;
  * Success response for Verify GSTIN
  */
 @Schema(description = "Success response for Verify GSTIN")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-08T05:03:36.102379Z[Etc/UTC]")
 public class GstinResponseSchema {
   public static final String SERIALIZED_NAME_G_S_T_I_N = "GSTIN";
   @SerializedName(SERIALIZED_NAME_G_S_T_I_N)

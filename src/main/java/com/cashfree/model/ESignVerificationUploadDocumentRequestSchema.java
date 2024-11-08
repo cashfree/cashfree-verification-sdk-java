@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Find the request parameters to upload the document that requires an e-signature.
  */
 @Schema(description = "Find the request parameters to upload the document that requires an e-signature.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-12T04:15:15.893702Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-08T05:03:36.102379Z[Etc/UTC]")
 public class ESignVerificationUploadDocumentRequestSchema {
   public static final String SERIALIZED_NAME_DOCUMENT = "document";
   @SerializedName(SERIALIZED_NAME_DOCUMENT)
@@ -73,7 +73,7 @@ public class ESignVerificationUploadDocumentRequestSchema {
    * @return document
   **/
   @javax.annotation.Nonnull
-  @Schema(example = "[B@662d3e85", requiredMode = Schema.RequiredMode.REQUIRED, description = "Upload the document that requires an e-sign. Allowed file type - PDF. Max file size allowed - 10MB.")
+  @Schema(example = "[B@478c84aa", requiredMode = Schema.RequiredMode.REQUIRED, description = "Upload the document that requires an e-sign. Allowed file type - PDF. Max file size allowed - 10MB.")
   public File getDocument() {
     return document;
   }
