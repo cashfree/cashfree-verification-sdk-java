@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Find the request parameters to mask aadhaar information
  */
 @Schema(description = "Find the request parameters to mask aadhaar information")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-18T11:12:20.695812Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-20T06:30:36.549576Z[Etc/UTC]")
 public class Aadhaarmaskingrequestschema {
   public static final String SERIALIZED_NAME_IMAGE = "image";
   @SerializedName(SERIALIZED_NAME_IMAGE)
