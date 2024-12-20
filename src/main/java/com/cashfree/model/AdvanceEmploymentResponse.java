@@ -57,7 +57,7 @@ import com.cashfree.JSON;
  * Success response for Get Employment Details
  */
 @Schema(description = "Success response for Get Employment Details")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-18T11:12:20.695812Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-20T06:41:28.648290Z[Etc/UTC]")
 public class AdvanceEmploymentResponse {
   public static final String SERIALIZED_NAME_VERIFICATION_ID = "verification_id";
   @SerializedName(SERIALIZED_NAME_VERIFICATION_ID)
