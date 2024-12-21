@@ -52,7 +52,7 @@ import com.cashfree.JSON;
  * Find the request parameters to verify IP address
  */
 @Schema(description = "Find the request parameters to verify IP address")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-18T11:12:20.695812Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
 public class IpVerificationRequestSchema {
   public static final String SERIALIZED_NAME_IP_ADDRESS = "ip_address";
   @SerializedName(SERIALIZED_NAME_IP_ADDRESS)
