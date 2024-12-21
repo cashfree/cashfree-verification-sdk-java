@@ -54,7 +54,7 @@ import com.cashfree.JSON;
  * It contains information regarding any badges or emblems affixed to the vehicle. These badges could indicate various things such as the vehicle&#39;s model, trim level, special editions, or manufacturer-specific badges.
  */
 @Schema(description = "It contains information regarding any badges or emblems affixed to the vehicle. These badges could indicate various things such as the vehicle's model, trim level, special editions, or manufacturer-specific badges.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-18T11:12:20.695812Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
 public class BadgeDetails {
   public static final String SERIALIZED_NAME_BADGE_ISSUE_DATE = "badge_issue_date";
   @SerializedName(SERIALIZED_NAME_BADGE_ISSUE_DATE)

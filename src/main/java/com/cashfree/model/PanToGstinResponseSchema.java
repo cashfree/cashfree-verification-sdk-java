@@ -55,7 +55,7 @@ import com.cashfree.JSON;
  * Success response for Fetch GSTIN with PAN
  */
 @Schema(description = "Success response for Fetch GSTIN with PAN")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-18T11:12:20.695812Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
 public class PanToGstinResponseSchema {
   public static final String SERIALIZED_NAME_REFERENCE_ID = "reference_id";
   @SerializedName(SERIALIZED_NAME_REFERENCE_ID)
