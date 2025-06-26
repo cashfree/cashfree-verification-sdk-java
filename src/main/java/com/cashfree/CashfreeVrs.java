@@ -168,7 +168,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -278,7 +278,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -373,7 +373,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -462,7 +462,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -558,7 +558,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -654,7 +654,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -749,7 +749,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -855,7 +855,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -958,7 +958,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1049,7 +1049,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1144,7 +1144,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1242,7 +1242,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1344,7 +1344,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1362,6 +1362,126 @@ public class CashfreeVrs {
         }
         okhttp3.Call localVarCall = vrsESignVerificationFetchStatusValidateBeforeCall(xCfSignature, referenceId, verificationId, null);
         Type localVarReturnType = new TypeToken<ESignVerificationGetStatusResponseSchema>(){}.getType();
+        return localVarApiClient.execute(localVarCall, localVarReturnType);
+    }
+
+
+    /**
+     * Build call for vrsFaceLivenessCheck
+     * @param xApiVersion API version to be used. Format is in YYYY-MM-DD. (required)
+     * @param verificationId It is the unique ID you create to identify the verification request. The maximum character limit is 50. Only alphanumeric, period (.), hyphen (-) and underscore ( _ ) are allowed. (required)
+     * @param image Upload the image of the individual to verify the liveness of the image. Supported types are jpeg, jpg and png. (required)
+     * @param xCfSignature Send the signature if IP is not whitelisted (optional)
+     * @param _callback Callback for upload/download progress
+     * @return Call to execute
+     * @throws ApiException If fail to serialize the request body object
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> Success response for checking the face liveness. </td><td>  -  </td></tr>
+        <tr><td> 400 </td><td> Validation errors for Face Liveness Check API. </td><td>  -  </td></tr>
+        <tr><td> 401 </td><td> Invalid client ID and client secret combination </td><td>  -  </td></tr>
+        <tr><td> 403 </td><td> Authentication error (IP not whitelisted) </td><td>  -  </td></tr>
+        <tr><td> 409 </td><td> Conflict error for requesting another OTP for the same aadhaar within 30 seconds </td><td>  -  </td></tr>
+        <tr><td> 422 </td><td> Validation error because of insufficient balance to process this request </td><td>  -  </td></tr>
+        <tr><td> 500 </td><td> Internal error </td><td>  -  </td></tr>
+        <tr><td> 502 </td><td> Gateway error </td><td>  -  </td></tr>
+     </table>
+     */
+    public okhttp3.Call vrsFaceLivenessCheckCall(String xApiVersion, String verificationId, File image, String xCfSignature, final ApiCallback _callback) throws ApiException {
+        String basePath = "https://sandbox.cashfree.com/verification";
+
+        if(CashfreeVrs.XEnvironment == CFEnvironment.PRODUCTION) {
+            basePath = "https://api.cashfree.com/verification";
+        }
+
+        Object localVarPostBody = null;
+
+        // create path and map variables
+        String localVarPath = "/face-liveness";
+
+        List<Pair> localVarQueryParams = new ArrayList<Pair>();
+        List<Pair> localVarCollectionQueryParams = new ArrayList<Pair>();
+        Map<String, String> localVarHeaderParams = new HashMap<String, String>();
+        Map<String, String> localVarCookieParams = new HashMap<String, String>();
+        Map<String, Object> localVarFormParams = new HashMap<String, Object>();
+
+        if (verificationId != null) {
+            localVarFormParams.put("verification_id", verificationId);
+        }
+
+        if (image != null) {
+            localVarFormParams.put("image", image);
+        }
+
+        if (xCfSignature != null) {
+            localVarHeaderParams.put("x-cf-signature", localVarApiClient.parameterToString(xCfSignature));
+        }
+
+        if (xApiVersion != null) {
+            localVarHeaderParams.put("x-api-version", localVarApiClient.parameterToString(xApiVersion));
+        }
+
+
+        if(CashfreeVrs.XClientSecret != null) {
+            ApiKeyAuth XClientSecret = (ApiKeyAuth) localVarApiClient.getAuthentication("XClientSecret");
+            XClientSecret.setApiKey(CashfreeVrs.XClientSecret);
+        }
+
+        if(CashfreeVrs.XClientSecret != null) {
+            ApiKeyAuth XClientID = (ApiKeyAuth) localVarApiClient.getAuthentication("XClientID");
+            XClientID.setApiKey(CashfreeVrs.XClientId);
+        }
+
+        final String[] localVarAccepts = {
+            "application/json"
+        };
+        final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
+        if (localVarAccept != null) {
+            localVarHeaderParams.put("Accept", localVarAccept);
+        }
+
+        final String[] localVarContentTypes = {
+            "multipart/form-data"
+        };
+        final String localVarContentType = localVarApiClient.selectHeaderContentType(localVarContentTypes);
+        if (localVarContentType != null) {
+            localVarHeaderParams.put("Content-Type", localVarContentType);
+        }
+
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
+
+        String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
+        return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
+    }
+
+    @SuppressWarnings("rawtypes")
+    private okhttp3.Call vrsFaceLivenessCheckValidateBeforeCall(String xApiVersion, String verificationId, File image, String xCfSignature, final ApiCallback _callback) throws ApiException {
+        // verify the required parameter 'xApiVersion' is set
+        if (xApiVersion == null) {
+            throw new ApiException("Missing the required parameter 'xApiVersion' when calling VrsFaceLivenessCheck(Async)");
+        }
+
+        // verify the required parameter 'verificationId' is set
+        if (verificationId == null) {
+            throw new ApiException("Missing the required parameter 'verificationId' when calling VrsFaceLivenessCheck(Async)");
+        }
+
+        // verify the required parameter 'image' is set
+        if (image == null) {
+            throw new ApiException("Missing the required parameter 'image' when calling VrsFaceLivenessCheck(Async)");
+        }
+
+        return vrsFaceLivenessCheckCall(xApiVersion, verificationId, image, xCfSignature, _callback);
+
+    }
+
+    public ApiResponse<FaceLiveness200ResponseSchema> VrsFaceLivenessCheck(String xApiVersion, String verificationId, File image, String xCfSignature, OkHttpClient httpClient) throws ApiException {
+        if(httpClient != null) {
+            localVarApiClient.httpClient = httpClient;
+        }
+        okhttp3.Call localVarCall = vrsFaceLivenessCheckValidateBeforeCall(xApiVersion, verificationId, image, xCfSignature, null);
+        Type localVarReturnType = new TypeToken<FaceLiveness200ResponseSchema>(){}.getType();
         return localVarApiClient.execute(localVarCall, localVarReturnType);
     }
 
@@ -1469,7 +1589,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1568,7 +1688,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1658,7 +1778,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1681,121 +1801,6 @@ public class CashfreeVrs {
         }
         okhttp3.Call localVarCall = vrsIpVerificationValidateBeforeCall(ipVerificationRequestSchema, null);
         Type localVarReturnType = new TypeToken<IpVerificationResponseSchema>(){}.getType();
-        return localVarApiClient.execute(localVarCall, localVarReturnType);
-    }
-
-
-    /**
-     * Build call for vrsLivelinessCheck
-     * @param verificationId It is the unique ID you create to identify the verification request. The maximum character limit is 50. Only alphanumeric, period (.), hyphen (-) and underscore ( _ ) are allowed. (required)
-     * @param image Upload the image of the individual to verify the liveliness of the image. (required)
-     * @param xCfSignature Send the signature if IP is not whitelisted (optional)
-     * @param strictCheck It is the boolean value to set the strictness check of the image. Default value for strict_check is false. (optional)
-     * @param _callback Callback for upload/download progress
-     * @return Call to execute
-     * @throws ApiException If fail to serialize the request body object
-     * @http.response.details
-     <table summary="Response Details" border="1">
-        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
-        <tr><td> 200 </td><td> Success response for checking the liveliness of your customer </td><td>  -  </td></tr>
-        <tr><td> 400 </td><td> Validation errors for Liveliness Check API </td><td>  -  </td></tr>
-        <tr><td> 401 </td><td> Invalid client ID and client secret combination </td><td>  -  </td></tr>
-        <tr><td> 403 </td><td> Authentication error (IP not whitelisted) </td><td>  -  </td></tr>
-        <tr><td> 409 </td><td> Conflict error </td><td>  -  </td></tr>
-        <tr><td> 422 </td><td> Validation error because of insufficient balance to process this request </td><td>  -  </td></tr>
-        <tr><td> 500 </td><td> Internal error </td><td>  -  </td></tr>
-        <tr><td> 502 </td><td> Gateway error </td><td>  -  </td></tr>
-     </table>
-     */
-    public okhttp3.Call vrsLivelinessCheckCall(String verificationId, File image, String xCfSignature, Boolean strictCheck, final ApiCallback _callback) throws ApiException {
-        String basePath = "https://sandbox.cashfree.com/verification";
-
-        if(CashfreeVrs.XEnvironment == CFEnvironment.PRODUCTION) {
-            basePath = "https://api.cashfree.com/verification";
-        }
-
-        Object localVarPostBody = null;
-
-        // create path and map variables
-        String localVarPath = "/liveliness";
-
-        List<Pair> localVarQueryParams = new ArrayList<Pair>();
-        List<Pair> localVarCollectionQueryParams = new ArrayList<Pair>();
-        Map<String, String> localVarHeaderParams = new HashMap<String, String>();
-        Map<String, String> localVarCookieParams = new HashMap<String, String>();
-        Map<String, Object> localVarFormParams = new HashMap<String, Object>();
-
-        if (verificationId != null) {
-            localVarFormParams.put("verification_id", verificationId);
-        }
-
-        if (image != null) {
-            localVarFormParams.put("image", image);
-        }
-
-        if (strictCheck != null) {
-            localVarFormParams.put("strict_check", strictCheck);
-        }
-
-        if (xCfSignature != null) {
-            localVarHeaderParams.put("x-cf-signature", localVarApiClient.parameterToString(xCfSignature));
-        }
-
-
-        if(CashfreeVrs.XClientSecret != null) {
-            ApiKeyAuth XClientSecret = (ApiKeyAuth) localVarApiClient.getAuthentication("XClientSecret");
-            XClientSecret.setApiKey(CashfreeVrs.XClientSecret);
-        }
-
-        if(CashfreeVrs.XClientSecret != null) {
-            ApiKeyAuth XClientID = (ApiKeyAuth) localVarApiClient.getAuthentication("XClientID");
-            XClientID.setApiKey(CashfreeVrs.XClientId);
-        }
-
-        final String[] localVarAccepts = {
-            "application/json"
-        };
-        final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
-        if (localVarAccept != null) {
-            localVarHeaderParams.put("Accept", localVarAccept);
-        }
-
-        final String[] localVarContentTypes = {
-            "multipart/form-data"
-        };
-        final String localVarContentType = localVarApiClient.selectHeaderContentType(localVarContentTypes);
-        if (localVarContentType != null) {
-            localVarHeaderParams.put("Content-Type", localVarContentType);
-        }
-
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
-
-        String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
-        return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
-    }
-
-    @SuppressWarnings("rawtypes")
-    private okhttp3.Call vrsLivelinessCheckValidateBeforeCall(String verificationId, File image, String xCfSignature, Boolean strictCheck, final ApiCallback _callback) throws ApiException {
-        // verify the required parameter 'verificationId' is set
-        if (verificationId == null) {
-            throw new ApiException("Missing the required parameter 'verificationId' when calling VrsLivelinessCheck(Async)");
-        }
-
-        // verify the required parameter 'image' is set
-        if (image == null) {
-            throw new ApiException("Missing the required parameter 'image' when calling VrsLivelinessCheck(Async)");
-        }
-
-        return vrsLivelinessCheckCall(verificationId, image, xCfSignature, strictCheck, _callback);
-
-    }
-
-    public ApiResponse<LivelinessResponseSchema> VrsLivelinessCheck(String verificationId, File image, String xCfSignature, Boolean strictCheck, OkHttpClient httpClient) throws ApiException {
-        if(httpClient != null) {
-            localVarApiClient.httpClient = httpClient;
-        }
-        okhttp3.Call localVarCall = vrsLivelinessCheckValidateBeforeCall(verificationId, image, xCfSignature, strictCheck, null);
-        Type localVarReturnType = new TypeToken<LivelinessResponseSchema>(){}.getType();
         return localVarApiClient.execute(localVarCall, localVarReturnType);
     }
 
@@ -1869,7 +1874,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -1968,7 +1973,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2075,7 +2080,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2180,7 +2185,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2276,7 +2281,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2384,7 +2389,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2488,7 +2493,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2584,7 +2589,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2680,7 +2685,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2776,7 +2781,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2865,7 +2870,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -2961,7 +2966,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -3052,7 +3057,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -3148,7 +3153,7 @@ public class CashfreeVrs {
             localVarHeaderParams.put("Content-Type", localVarContentType);
         }
 
-        localVarHeaderParams.put("x-sdk-platform", "javasdk-2.0.10");
+        localVarHeaderParams.put("x-sdk-platform", "javasdk-3.0.0");
 
         String[] localVarAuthNames = new String[] { "XClientSecret", "XClientID" };
         return localVarApiClient.buildCall(basePath, localVarPath, "POST", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, localVarAuthNames, _callback);
@@ -3268,7 +3273,7 @@ static class ApiClient {
         json = new JSON();
 
         // Set default User-Agent.
-        setUserAgent("OpenAPI-Generator/2.0.10/java");
+        setUserAgent("OpenAPI-Generator/3.0.0/java");
 
         authentications = new HashMap<String, Authentication>();
     }

@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * It displays the basic information of the employee.
  */
 @Schema(description = "It displays the basic information of the employee.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2025-06-26T10:15:01.933699Z[Etc/UTC]")
 public class AdvanceEmploymentResponseUanDetailsInnerBasicDetails {
   public static final String SERIALIZED_NAME_GENDER = "gender";
   @SerializedName(SERIALIZED_NAME_GENDER)

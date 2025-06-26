@@ -52,7 +52,7 @@ import com.cashfree.JSON;
  * 400 response for invalid IP address
  */
 @Schema(description = "400 response for invalid IP address")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2025-06-26T10:15:01.933699Z[Etc/UTC]")
 public class InvalidIpAddress {
   public static final String SERIALIZED_NAME_TYPE = "type";
   @SerializedName(SERIALIZED_NAME_TYPE)

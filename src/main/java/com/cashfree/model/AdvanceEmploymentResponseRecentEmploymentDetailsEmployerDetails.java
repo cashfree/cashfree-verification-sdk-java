@@ -55,7 +55,7 @@ import com.cashfree.JSON;
 /**
  * AdvanceEmploymentResponseRecentEmploymentDetailsEmployerDetails
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2025-06-26T10:15:01.933699Z[Etc/UTC]")
 public class AdvanceEmploymentResponseRecentEmploymentDetailsEmployerDetails {
   public static final String SERIALIZED_NAME_ESTABLISHMENT_ID = "establishment_id";
   @SerializedName(SERIALIZED_NAME_ESTABLISHMENT_ID)

@@ -54,7 +54,7 @@ import com.cashfree.JSON;
  * It contains the different information regarding the validity of the licence.
  */
 @Schema(description = "It contains the different information regarding the validity of the licence.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2025-06-26T10:15:01.933699Z[Etc/UTC]")
 public class DrivingLicenseResponseSchemaDlValidity {
   public static final String SERIALIZED_NAME_NON_TRANSPORT = "non_transport";
   @SerializedName(SERIALIZED_NAME_NON_TRANSPORT)

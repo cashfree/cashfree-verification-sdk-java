@@ -53,7 +53,7 @@ import com.cashfree.JSON;
  * Find the request parameters to verify facial features in two images
  */
 @Schema(description = "Find the request parameters to verify facial features in two images")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2025-06-26T10:15:01.933699Z[Etc/UTC]")
 public class FaceMatchRequestSchema {
   public static final String SERIALIZED_NAME_VERIFICATION_ID = "verification_id";
   @SerializedName(SERIALIZED_NAME_VERIFICATION_ID)
@@ -119,7 +119,7 @@ public class FaceMatchRequestSchema {
    * @return firstImage
   **/
   @javax.annotation.Nonnull
-  @Schema(example = "[B@1d1deb11", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned copy of the image 1. Allowed file type - JPEG/JPG/PNG. Maximum file size allowed for both the files is 10 MB.")
+  @Schema(example = "[B@4ef28dc4", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned copy of the image 1. Allowed file type - JPEG/JPG/PNG. Maximum file size allowed for both the files is 10 MB.")
   public File getFirstImage() {
     return firstImage;
   }
@@ -141,7 +141,7 @@ public class FaceMatchRequestSchema {
    * @return secondImage
   **/
   @javax.annotation.Nonnull
-  @Schema(example = "[B@18d1d137", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned copy of the image 2. Allowed file type - JPEG/JPG/PNG. Maximum file size allowed for both the files is 10 MB.")
+  @Schema(example = "[B@59b3f162", requiredMode = Schema.RequiredMode.REQUIRED, description = "It is the scanned copy of the image 2. Allowed file type - JPEG/JPG/PNG. Maximum file size allowed for both the files is 10 MB.")
   public File getSecondImage() {
     return secondImage;
   }

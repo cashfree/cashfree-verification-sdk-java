@@ -52,7 +52,7 @@ import com.cashfree.JSON;
  * Success response for Generate OTP to Verify Aadhaar API
  */
 @Schema(description = "Success response for Generate OTP to Verify Aadhaar API")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-12-21T07:15:37.235803Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2025-06-26T10:15:01.933699Z[Etc/UTC]")
 public class OfflineAadhaarSendOtpResponseSchema {
   public static final String SERIALIZED_NAME_REF_ID = "ref_id";
   @SerializedName(SERIALIZED_NAME_REF_ID)
