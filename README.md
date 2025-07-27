@@ -17,14 +17,14 @@ Try out our interactive guides at [Cashfree Dev Studio](https://www.cashfree.com
 ### Installation
 * Gradle Project
 ```bash
-implementation `com.cashfree.verification.java:cashfree_verification:2.0.10`
+implementation `com.cashfree.verification.java:cashfree_verification:3.0.0`
 ```
 * Maven Project
 ```bash
 <dependency>
   <groupId>com.cashfree.verification.java</groupId>
   <artifactId>cashfree_verification</artifactId>
-  <version>2.0.10</version>
+  <version>3.0.0</version>
   <scope>compile</scope>
 </dependency>
 <dependency>

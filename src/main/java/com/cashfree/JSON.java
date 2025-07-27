@@ -140,6 +140,14 @@ public class JSON {
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.ESignVerificationUploadDocumentRequestSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.ESignVerificationUploadDocumentResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.ErrorResponseSchema.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchema.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchemaAgeRange.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchemaEyeWear.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchemaEyesOpen.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchemaFaceOccluded.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchemaGender.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchemaPose.CustomTypeAdapterFactory());
+        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceLiveness200ResponseSchemaQuality.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceMatchRequestSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.FaceMatchResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.GetPanBulkResponseSchema.CustomTypeAdapterFactory());
@@ -153,7 +161,6 @@ public class JSON {
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.IpVerificationRequestSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.IpVerificationResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.LivelinessRequestSchema.CustomTypeAdapterFactory());
-        gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.LivelinessResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.NameMatchRequestSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.NameMatchResponseSchema.CustomTypeAdapterFactory());
         gsonBuilder.registerTypeAdapterFactory(new com.cashfree.model.OfflineAadhaarSendOtpRequestSchema.CustomTypeAdapterFactory());
